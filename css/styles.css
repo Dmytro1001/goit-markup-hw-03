@@ -80,7 +80,7 @@ body {
 
 /* ======= Pege header ======== */
 
-header{
+.page-header {
     border: 1px solid #ECECEC;
 }
 
